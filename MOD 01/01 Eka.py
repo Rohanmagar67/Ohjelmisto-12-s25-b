@@ -10,5 +10,5 @@ nimi = ('Ruoho')
 print(nimi)
 
 # syöte, eli tietoa käyttäjältä
-nimi2 = input('Moikka, anna nimi:')
+nimi2 = input('Moikka, anna nimi: ')
 print(nimi2)
