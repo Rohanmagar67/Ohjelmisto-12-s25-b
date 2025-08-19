@@ -12,3 +12,4 @@ print(nimi)
 # syöte, eli tietoa käyttäjältä
 nimi2 = input('Moikka, anna nimi: ')
 print(nimi2)
+print('rob')
